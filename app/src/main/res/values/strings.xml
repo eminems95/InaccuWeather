@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inaccu Weather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="locationHeader">Location</string>
+    <string name="countryHeader">Country</string>
+    <string name="dayTempHeader">Day</string>
+    <string name="tempHeader">Temperature</string>
+    <string name="morningHeader">Morning</string>
+    <string name="eveningHeader">Evening</string>
+    <string name="nightHeader">Night</string>
+    <string name="minimalHeader">Minimal</string>
+    <string name="maximalHeader">Maximal</string>
+    <string name="airConditionHeader">Air condition</string>
+    <string name="pressureHeader">Pressure</string>
+    <string name="windSpeedHeader">Wind speed</string>
+    <string name="degreesHeader">Degrees</string>
+    <string name="cloudsHeader">Clouds percentage</string>
+    <string name="humidityHeader">Humidity</string>
+</resources>
