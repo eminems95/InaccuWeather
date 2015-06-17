@@ -63,7 +63,7 @@ public class RowAdapter extends ArrayAdapter<RecordModel> {
         //holder.weatherIV.setImageResource();
         if(Double.parseDouble(item.getDayTempValue())>0) {
             holder.dayTempTV.setTextColor(Color.rgb(200,50,50));
-            holder.dayTempTV.setText(item.getDayTempValue()+"C");
+            holder.dayTempTV.setText(item.getDayTempValue()+"°C");
         }else if(Double.parseDouble(item.getDayTempValue())<=0) {
             holder.dayTempTV.setTextColor(Color.rgb(50,50,200));
             holder.dayTempTV.setText(item.getDayTempValue()+"°C");
