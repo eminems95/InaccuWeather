@@ -9,7 +9,7 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="90dp"
         android:background="#abcde0"
 
         >
@@ -33,7 +33,7 @@
             <EditText
                 android:id="@+id/cityEditText"
                 android:layout_width="match_parent"
-                android:layout_height="65dp"
+                android:layout_height="50dp"
                 android:focusable="true"
                 android:imeOptions="actionDone"
                 android:inputType="textCapWords"
